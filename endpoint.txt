@@ -1,1 +1,1 @@
-https://query.wikidata.org
+https://query.wikidata.org/
