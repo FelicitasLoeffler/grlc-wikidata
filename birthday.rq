@@ -1,5 +1,5 @@
-#Wer hat heute Geburtstag?
-#Whose birthday is today?
+#+ summary: Wer hat heute Geburtstag?/ Whose birthday is today?
+#+ endpoint: https://query.wikidata.org
 SELECT ?entityLabel (YEAR(?date) as ?year)
 WHERE
 {
