@@ -1,5 +1,6 @@
 #+ summary: Wer hat heute Geburtstag?/ Whose birthday is today?
-#+ endpoint: https://query.wikidata.org/
+#+ endpoint: https://query.wikidata.org/sparql
+#+ method: GET
 SELECT ?entityLabel (YEAR(?date) as ?year)
 WHERE
 {
