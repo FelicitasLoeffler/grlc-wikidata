@@ -1,5 +1,5 @@
 #+ summary: Wer hat heute Geburtstag?/ Whose birthday is today?
-#+ endpoint: https://query.wikidata.org/sparql/
+#+ endpoint: https://query.wikidata.org
 #+ method: GET
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wds: <http://www.wikidata.org/entity/statement/>
